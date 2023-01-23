@@ -1,8 +1,7 @@
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif?cid=ecf05e47hkifnou9urmgu3ckx943hskmpu4nzxy1ftzxn32x&rid=giphy.gif&ct=g" width="400" height="200"/>
-</div>
-
-<div id="badges">
+  
+  <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -14,6 +13,10 @@
   </a>
 </div> 
   <div id="badges"> <img src="https://komarev.com/ghpvc/?username=pairOfPants&style=flat-square&color=blue" alt=""/> </div>
+  
+</div>
+
+
   
   
 <h1>
