@@ -38,9 +38,9 @@ I am an American University Student who takes interests in various projects.
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/unity/unity-original-wordmark.svg" title="Unity" alt="Unity" width="50" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/visualstudio/visualstudio-plain-wordmark.svg" title="Visual Studio" alt="Visual Studio" width="50" height="40"/>&nbsp;
-  <img src="https://banner2.cleanpng.com/20180607/esv/kisspng-apache-maven-apache-ant-gradle-apache-http-server-apache-maven-5b194e571b97f1.295739891528385111113.jpg" title="Maven" alt="Maven" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/unity-69-logo-png-transparent.png" title="Unity" alt="Unity" width="50" height="40"/>&nbsp;
+  <img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" title="Visual Studio" alt="Visual Studio" width="50" height="40"/>&nbsp;
+  <img src="https://editorconfig.org/logos/maven.png" title="Maven" alt="Maven" width="40" height="40"/>&nbsp;
   <img src="https://seeklogo.com/images/E/eclipse-logo-85FE4BEA34-seeklogo.com.png" alt="Eclipse Logos and Artwork | The Eclipse Foundation" width="40" height="40"/>&nbsp;
   
   ---
