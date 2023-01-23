@@ -33,6 +33,5 @@ I am an American University Student who takes interests in various projects.
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/unity/unity-original-wordmark.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/visualstudio/visualstudio-plain-wordmark.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/2560px-Apache_Maven_logo.svg.png" title="Maven" alt="Maven" width="40" height="40"/>&nbsp;
-  <img src="https://www.eclipse.org/org/artwork/images/eclipse_ide_logo.png" alt="Eclipse Logos and Artwork | The Eclipse Foundation"/>![Uploading image.png…]()
-
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/2560px-Apache_Maven_logo.svg.png" title="Maven" alt="Maven" width="100" height="40"/>&nbsp;
+  <img src="https://www.eclipse.org/org/artwork/images/eclipse_ide_logo.png" alt="Eclipse Logos and Artwork | The Eclipse Foundation" width="100" height="40"/>&nbsp;
