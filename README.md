@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media4.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif?cid=ecf05e47hkifnou9urmgu3ckx943hskmpu4nzxy1ftzxn32x&rid=giphy.gif&ct=g" width="400" height="200"/>
+  <img src="https://media4.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif?cid=ecf05e47hkifnou9urmgu3ckx943hskmpu4nzxy1ftzxn32x&rid=giphy.gif&ct=g" width="200" height="100"/>
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=pairOfPants&style=flat-square&color=blue" alt=""/>
@@ -23,3 +23,8 @@ I am an American University Student who takes interests in various projects.
 - :zap: In my free time, I learn new things and incorporate them into my code.
 - :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-adenham112@gmail.com-red?style=flat&logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
 
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" alt="Google Cloud" width="40" height = "40"/>&nbsp;
