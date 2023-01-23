@@ -1,8 +1,7 @@
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif?cid=ecf05e47hkifnou9urmgu3ckx943hskmpu4nzxy1ftzxn32x&rid=giphy.gif&ct=g" width="200" height="100"/>
-  <img src="https://komarev.com/ghpvc/?username=pairOfPants&style=flat-square&color=blue" alt=""/>
 </div>
-
+<img src="https://komarev.com/ghpvc/?username=pairOfPants&style=flat-square&color=blue" alt="" allign="center"/>
 <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
