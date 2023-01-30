@@ -29,7 +29,7 @@
 ---
 
 ### 👨‍💻: About Me :
-I am an American University Student who takes interests in various projects.
+I am an American High School Student who takes interests in various projects.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building desktop applications.
 - 🧠: I'm familiar with Java and C# but am learning C++ as well as MySQL and am beginning web-development
 - :seedling: Exploring Other Formats of Coding.
