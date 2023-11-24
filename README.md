@@ -29,11 +29,11 @@
 ---
 
 ### 👨‍💻: About Me :
-I am an American High School Student who takes interests in various projects.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building desktop applications.
+I am an American College Student who takes interests in various projects.
+- :telescope: I love to create usable projects from the ground up, starting from scratch.
 - 🧠: I'm familiar with Java and C# but am learning C++ as well as MySQL and am beginning web-development
 - :seedling: Exploring Other Formats of Coding.
-- :zap: In my free time, I learn new things and incorporate them into my code.
+- :zap: In my free time, I am a Division 1 Baseball player, which takes a lot of time that would otherwise go towards development.
 - :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-adenham112@gmail.com-red?style=flat&logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
 
 ### :hammer_and_wrench: Languages and Tools :
